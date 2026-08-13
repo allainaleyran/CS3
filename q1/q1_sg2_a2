@@ -16,33 +16,26 @@ Some students take too long to decide what to order. The cashier has to manually
 
 Main Problem: The school canteen becomes crowded during lunch breaks, causing long and slow-moving queues.
 
-**Step 2: Identify three to four Sub-Problems Please list possible sub-problems:**
+**Step 2: Identify three to four Sub-Problems**
+Please list possible sub-problems:
 
-Slow Ordering -> Students take a long time deciding what to order.
-Manual Payment Calculation -> The cashier has to manually calculate totals and give change.
-Lack of Supply Tracker -> There is no system to check whether food items are running out.
-Step 3: Define Computational Thinking Approaches For each sub-problem, apply CT skills:
+1. Slow Ordering -> Students take a long time deciding what to order.
+2. Manual Payment Calculation -> The cashier has to manually calculate totals and give change.
+3. Lack of Supply Tracker -> There is no system to check whether food items are running out.
 
 **Step 3: Define Computational Thinking Approaches**
+For each sub-problem, apply CT skills:
+| Sub-Problem | CT Skill | Example Solution |
+| ----------- | ------------ | ----------- |
+| Slow Ordering | Decompostion | Pre-orders |
+| Manual Payment Calculation | Algorithm | Register for payment calculations |
+| Lack of Supply Tracker | Pattern Recognition | Spreadsheet Menu Tracker |
 
-Sub-Problem
-
-Slow Ordering
-Manual Payment Calculation
-Lack of Supply Tracker
-CT Skill
-
-Decomposition
-Algorithm
-Pattern Recognition
-Example Solution
-
-Pre-orders
-Register for payment calculation
-Spreadsheet Menu Tracker
 
 **Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem**
+Pseudocode for Sub-Problem 2
 
+START 
 
 Display food menu
 Take order -Ask if customer would like meal
