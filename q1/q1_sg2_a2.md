@@ -3,7 +3,7 @@ Computational Thinking Exercise: "Smart School Canteen Queue"
 
 Section: 9-Balingkilat                       Score:____________
 
-C# / Name: #25/Leyran, Allaina Maxene C.     Date: 08/12/26
+C# / Name: #25/Leyran, Allaina Maxene C. and #26/ Maglaya, Caelyn Arabelle D. and #27/Malaca, Trish Aubrey F.      Date: 08/12/26
 
 
 ### Scenario
