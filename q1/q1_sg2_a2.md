@@ -25,6 +25,7 @@ Please list possible sub-problems:
 
 **Step 3: Define Computational Thinking Approaches**
 For each sub-problem, apply CT skills:
+
 | Sub-Problem | CT Skill | Example Solution |
 | ----------- | ----------- |
 | Slow-Ordering | Decomposition | Pre-orders |
