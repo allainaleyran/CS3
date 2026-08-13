@@ -12,16 +12,18 @@ The PSHS school canteen is small and often gets crowded during lunch break. Stud
 
 Some students take too long to decide what to order. The cashier has to manually calculate totals and give change. There is no system to track which food items are running out. Your group’s task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
 
-Step 1: Identify the Big Problem
+**Step 1: Identify the Big Problem**
 
 Main Problem: The school canteen becomes crowded during lunch breaks, causing long and slow-moving queues.
 
-Step 2: Identify three to four Sub-Problems Please list possible sub-problems:
+**Step 2: Identify three to four Sub-Problems Please list possible sub-problems:**
 
 Slow Ordering -> Students take a long time deciding what to order.
 Manual Payment Calculation -> The cashier has to manually calculate totals and give change.
 Lack of Supply Tracker -> There is no system to check whether food items are running out.
 Step 3: Define Computational Thinking Approaches For each sub-problem, apply CT skills:
+
+**Step 3: Define Computational Thinking Approaches**
 
 Sub-Problem
 
@@ -38,7 +40,9 @@ Example Solution
 Pre-orders
 Register for payment calculation
 Spreadsheet Menu Tracker
-Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem START
+
+**Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem**
+
 
 Display food menu
 Take order -Ask if customer would like meal
@@ -69,7 +73,10 @@ Add additional money to payment
 Calculate change again
 ELSE: change = 0, customer finished
 END
-Reflection: Decomposition is an essential process when solving problems, as it breaks down the whole concept or problem into smaller, more manageable parts. It is used to understand a complex problem and to solve it more effectively.
+
+**Reflection:**
+
+Decomposition is an essential process when solving problems, as it breaks down the whole concept or problem into smaller, more manageable parts. It is used to understand a complex problem and to solve it more effectively.
 
 Firstly, for the problem of slow ordering, we used the skill of decomposition. We used decomposition because we planned to break down the ordering process into smaller steps; thus, our solution was to initiate pre-orders to minimize the waiting time in the queue and to divide the ordering process into sections or segments.
 
