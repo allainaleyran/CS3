@@ -1,3 +1,3 @@
 # CS3
-ctskillsBalingkilatLeyran.md
-https://github.com/allainaleyran/CS3/blob/d52909db27bba5ef0d17f4497ebaa0729238242c/q1/ctskillsBalingkilatLeyran.md
+## SG 2 ACTIVITY 1 
+https://github.com/allainaleyran/CS3/blob/34ed6f2d136048b7170e9635364a37f187325b46/q1/q1_sg2_a2.md
