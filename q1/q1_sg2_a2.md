@@ -9,29 +9,10 @@ C#/Name:#25/Allaina Maxene Leyran   Date: 08/15/26
 ### Instructions:
 The problem: Finding the highest (Maximum) number from a given list of numbers.
 
-
 | PseudoCode 1 | PseudoCode 2 |
-| --- | --- |
-| Algorithm FindMax1(numbers)
- max ← numbers[0]
- For i from 1 to length(numbers)-1
-  If numbers[i] > max Then
-   max ← numbers[i]
-  EndIf
- EndFor
- Return max
-EndAlgorithm | Algorithm FindMax2(numbers)
- For i from 0 to length(numbers)-1bigger ← true
-  For j from 0 to length(numbers)-1
-   If numbers[j] > numbers[i] Then
-    bigger ← false
-   EndIf
-  EndFor
-  If bigger = true Then
-   Return numbers[i]
-  EndIf
- EndFor
-EndAlgorithm |
+| :--- | :--- |
+| <pre>Algorithm FindMax1(numbers)<br>  max ← numbers[0]<br>  For i from 1 to length(numbers)-1<br>    If numbers[i] &gt; max Then<br>      max ← numbers[i]<br>    EndIf<br>  EndFor<br>  Return max<br>EndAlgorithm</pre> | <pre>Algorithm FindMax2(numbers)<br>  For i from 0 to length(numbers)-1<br>    bigger ← true<br>    For j from 0 to length(numbers)-1<br>      If numbers[j] &gt; numbers[i] Then<br>        bigger ← false<br>      EndIf<br>    EndFor<br>    If bigger = true Then<br>      Return numbers[i]<br>    EndIf<br>  EndFor<br>EndAlgorithm</pre> |
+
 
 
 Questions with Checklists
