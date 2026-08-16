@@ -33,7 +33,7 @@ Checklist to guide your answer:
 
 | PseudoCode 1 | PseudoCode 2 |
 | :--- | :--- |
-| [] Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code?<br>[] | Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code?<br>[] |
+| [] Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code? | [] Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code? |
 
 **3. Maintainability**
 
