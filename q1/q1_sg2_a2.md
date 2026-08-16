@@ -50,7 +50,7 @@ Checklist to guide your answer:
 
 **Checklist to guide your answer:**
 | PseudoCode 1 | PseudoCode 2 |
-| ----------- | ----------- |
+| :--- | :--- |
 | [] Can you test with small lists easily?<br>[] Does the algorithm have fewer conditions to check?<br>[]  Is the output predictable and clear? | [] Can you test with small lists easily?<br>[] Does the algorithm have fewer conditions to check?<br>[]  Is the output predictable and clear? |
 
 5. Security
@@ -61,7 +61,7 @@ Checklist to guide your answer:
 
 **Checklist to guide your answer:**
 | PseudoCode 1 | PseudoCode 2 |
-| ----------- | ----------- |
+| :--- | :--- |
 | [] Does the algorithm check if the list is empty?<br>[] Does it handle invalid inputs (like letters instead of numbers)?<br>[]  Does it avoid crashing when inputs are unusual? | [] Does the algorithm check if the list is empty?<br>[] Does it handle invalid inputs (like letters instead of numbers)?<br>[]  Does it avoid crashing when inputs are unusual? |
 
 6. Final Answer
