@@ -69,6 +69,7 @@ The first algorithm since the program does not need to jump between many decisio
 | [] Does the algorithm check if the list is empty?<br>[] Does it handle invalid inputs (like letters instead of numbers)?<br>[]  Does it avoid crashing when inputs are unusual? | [] Does the algorithm check if the list is empty?<br>[] Does it handle invalid inputs (like letters instead of numbers)?<br>[]  Does it avoid crashing when inputs are unusual? |
 
 **6. Final Answer**
-**Based on your answers from 1 to 5, which one is the better algorithm that you will use to solve the problem of finding the highest number? Why? Summarize your answer.**
 
+**Based on your answers from 1 to 5, which one is the better algorithm that you will use to solve the problem of finding the highest number? Why? Summarize your answer.**
+- Based on our answers, PseudoCode 1 is the better algorithm to use to find the highest number. It is more efficient as it uses only one loop with no unnecessary repeated comparisons. It is also easier to understand, test, and debug if problems arise. Hence, we would choose PseudoCode 1 as the better solution.
 
