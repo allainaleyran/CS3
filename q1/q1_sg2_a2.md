@@ -32,7 +32,7 @@ Checklist to guide your answer:
 
 | PseudoCode 1 | PseudoCode 2 |
 | :--- | :--- |
-| [] Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code? | []  Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code? |
+| [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating? | [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating? |
 
 3. Maintainability
 
