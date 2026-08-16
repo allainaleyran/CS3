@@ -20,7 +20,6 @@ Questions with Checklists
 
 Checklist to guide your answer:
 
-
 | PseudoCode 1 | PseudoCode 2 |
 | :--- | :--- |
 | [] Does the algorithm use one loop or two nested loops?<br>[] Does the algorithm repeat work unnecessarily?<br>[] Which algorithm finishes in fewer steps? | [] Does the algorithm use one loop or two nested loops?<br>[] Does the algorithm repeat work unnecessarily?<br>[] Which algorithm finishes in fewer steps? |
@@ -31,12 +30,9 @@ Which algorithm is easier to understand at first glance? What makes it clearer?
 
 Checklist to guide your answer:
 
-PseudoCode 1	PseudoCode 2
-[] Are variable names meaningful (e.g., max vs. bigger)?
-[] Is the logic simple or complicated?
-[] Are there fewer lines of code?	[] Are variable names meaningful (e.g., max vs. bigger)?
-[] Is the logic simple or complicated?
-[] Are there fewer lines of code?
+| PseudoCode 1 | PseudoCode 2 |
+| :--- | :--- |
+| [] Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code? | []  Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code? |
 
 3. Maintainability
 
