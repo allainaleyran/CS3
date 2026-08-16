@@ -9,8 +9,10 @@ C#/Name:#25/Allaina Maxene Leyran   Date: 08/15/26
 ### Instructions:
 The problem: Finding the highest (Maximum) number from a given list of numbers.
 
-PseudoCode 1	PseudoCode 2
-Algorithm FindMax1(numbers)
+
+| PseudoCode 1 | PseudoCode 2 |
+| --- | --- |
+| Algorithm FindMax1(numbers)
  max ← numbers[0]
  For i from 1 to length(numbers)-1
   If numbers[i] > max Then
@@ -18,7 +20,7 @@ Algorithm FindMax1(numbers)
   EndIf
  EndFor
  Return max
-EndAlgorithm	Algorithm FindMax2(numbers)
+EndAlgorithm | Algorithm FindMax2(numbers)
  For i from 0 to length(numbers)-1bigger ← true
   For j from 0 to length(numbers)-1
    If numbers[j] > numbers[i] Then
@@ -29,7 +31,9 @@ EndAlgorithm	Algorithm FindMax2(numbers)
    Return numbers[i]
   EndIf
  EndFor
-EndAlgorithm
+EndAlgorithm |
+
+
 Questions with Checklists
 1. Efficiency Which algorithm is faster when the list of numbers is very large? Why?
 
