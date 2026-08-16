@@ -43,7 +43,7 @@ Checklist to guide your answer:
 
 | PseudoCode 1 | PseudoCode 2 |
 | :--- | :--- |
-| [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating? | [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating? |
+| [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating?<br> | [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating? |
 
 4. Testability
 
