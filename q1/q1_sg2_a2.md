@@ -6,7 +6,7 @@ C#/Name:#25/Allaina Maxene Leyran   Date: 08/15/26
      #26/Caelyn Arabelle Maglaya
      #27/Trish Aubrey Malaca
 
-**Instructions:**
+### Instructions:
 The problem: Finding the highest (Maximum) number from a given list of numbers.
 
 PseudoCode 1	PseudoCode 2
