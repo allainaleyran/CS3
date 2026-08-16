@@ -2,7 +2,9 @@
 ## Code Quality Assessment Worksheet
 Section: 9-Balingkilat          Score:___________
 
-C#/Name:#25/Allaina Maxene Leyran, #26/Caelyn Arabelle Maglaya, and #27/Trish Aubrey Malaca            Date: 08/15/2026
+C#/Name:#25/Allaina Maxene Leyran, #26/Caelyn Arabelle Maglaya, and #27/Trish Aubrey Malaca            
+
+Date: 08/15/2026
 
 ### Instructions:
 The problem: Finding the highest (Maximum) number from a given list of numbers.
