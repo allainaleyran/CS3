@@ -17,7 +17,8 @@ The problem: Finding the highest (Maximum) number from a given list of numbers.
 
 Questions with Checklists
 
-**1. Efficiency Which algorithm is faster when the list of numbers is very large? Why?**
+**1. Efficiency**
+**Which algorithm is faster when the list of numbers is very large? Why?**
 - The first pseudocode’s algorithm is more efficient when the list of numbers is huge because the list goes through a fewer processes. Additionally, the pseudocode itself is more straightforward as compared to the second one which has nested loops that makes it repeat work needlessly. 
 
 **Checklist to guide your answer:**
@@ -26,7 +27,7 @@ Questions with Checklists
 | [/] Does the algorithm use one loop or two nested loops?<br>[] Does the algorithm repeat work unnecessarily?<br>[1st] Which algorithm finishes in fewer steps? | [/] Does the algorithm use one loop or two nested loops?<br>[/] Does the algorithm repeat work unnecessarily?<br>[] Which algorithm finishes in fewer steps? |
 
 **2. Readability**
-Which algorithm is easier to understand at first glance? What makes it clearer?
+**Which algorithm is easier to understand at first glance? What makes it clearer?**
 - The first algorithm was considerably more understandable to read as it is written with a concise and straightforward approach to the problem. The second, on the other hand, contains a nested loop and multiple If-Else statements, requiring jumping between lines to understand the full flow of the program.
 
 **Checklist to guide your answer:**
@@ -62,8 +63,7 @@ The first algorithm since the program does not need to jump between many decisio
 | :--- | :--- |
 | [] Does the algorithm check if the list is empty?<br>[] Does it handle invalid inputs (like letters instead of numbers)?<br>[]  Does it avoid crashing when inputs are unusual? | [] Does the algorithm check if the list is empty?<br>[] Does it handle invalid inputs (like letters instead of numbers)?<br>[]  Does it avoid crashing when inputs are unusual? |
 
-6. Final Answer
-
-Based on your answers from 1 to 5, which one is the better algorithm that you will use to solve the problem of finding the highest number? Why? Summarize your answer
+**6. Final Answer**
+**Based on your answers from 1 to 5, which one is the better algorithm that you will use to solve the problem of finding the highest number? Why? Summarize your answer.**
 
 
