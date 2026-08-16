@@ -18,6 +18,7 @@ The problem: Finding the highest (Maximum) number from a given list of numbers.
 Questions with Checklists
 
 **1. Efficiency**
+
 **Which algorithm is faster when the list of numbers is very large? Why?**
 - The first pseudocode’s algorithm is more efficient when the list of numbers is huge because the list goes through a fewer processes. Additionally, the pseudocode itself is more straightforward as compared to the second one which has nested loops that makes it repeat work needlessly. 
 
