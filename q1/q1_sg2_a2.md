@@ -16,7 +16,8 @@ The problem: Finding the highest (Maximum) number from a given list of numbers.
 
 
 Questions with Checklists
-1. Efficiency Which algorithm is faster when the list of numbers is very large? Why?
+
+**1. Efficiency Which algorithm is faster when the list of numbers is very large? Why?**
 
 Checklist to guide your answer:
 
@@ -24,7 +25,7 @@ Checklist to guide your answer:
 | :--- | :--- |
 | [] Does the algorithm use one loop or two nested loops?<br>[] Does the algorithm repeat work unnecessarily?<br>[] Which algorithm finishes in fewer steps? | [] Does the algorithm use one loop or two nested loops?<br>[] Does the algorithm repeat work unnecessarily?<br>[] Which algorithm finishes in fewer steps? |
 
-2. Readability
+**2. Readability**
 
 Which algorithm is easier to understand at first glance? What makes it clearer?
 
@@ -32,20 +33,18 @@ Checklist to guide your answer:
 
 | PseudoCode 1 | PseudoCode 2 |
 | :--- | :--- |
-| [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating? | [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating? |
+| [] Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code?<br>[] | Are variable names meaningful (e.g., max vs. bigger)?<br>[] Is the logic simple or complicated?<br>[] Are there fewer lines of code? |
 
-3. Maintainability
+**3. Maintainability**
 
 If you had to add a new feature (like finding both max and min), which algorithm would be easier to update? Why?
 
 Checklist to guide your answer:
 
-PseudoCode 1	PseudoCode 2
-[] Is the structure straightforward?
-[] Would adding new steps break the code easily?
-[] Is there less chance of errors when updating?	[] Is the structure straightforward?
-[] Would adding new steps break the code easily?
-[] Is there less chance of errors when updating?
+| PseudoCode 1 | PseudoCode 2 |
+| :--- | :--- |
+| [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating? | [] Is the structure straightforward?<br>[] Would adding new steps break the code easily?<br>[] Is there less chance of errors when updating? |
+
 4. Testability
 
 Which algorithm is easier to test with different inputs? Why?
