@@ -7,3 +7,6 @@ https://github.com/allainaleyran/CS3/blob/c38dd4f54317aa6d31a2e29a17c17c0c689a70
 
 ## CS CAR GAME
 https://github.com/allainaleyran/CS3/blob/7bee30dbdfb44245aa3dcc6cd8338ec510f2aa2f/q1/q1_mycar_balingkilat_Leyran.py
+
+## CS HERO GAME
+https://github.com/allainaleyran/CS3/blob/26c36c3f17fb40bdd9daff40656d99fed88ba52d/q1/q1_sg5_a1_balingkilat_Leyran.py
