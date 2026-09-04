@@ -10,3 +10,6 @@ https://github.com/allainaleyran/CS3/blob/7bee30dbdfb44245aa3dcc6cd8338ec510f2aa
 
 ## CS HERO GAME
 https://github.com/allainaleyran/CS3/blob/26c36c3f17fb40bdd9daff40656d99fed88ba52d/q1/q1_sg5_a1_balingkilat_Leyran.py
+
+## LAB MANAGER MISSION
+https://github.com/allainaleyran/CS3/blob/9f16dbd4cb180c95eba8a8665e61cc16f08190a6/q1/q1_sg6_Balingkilat_Leyran.py
