@@ -13,3 +13,6 @@ https://github.com/allainaleyran/CS3/blob/26c36c3f17fb40bdd9daff40656d99fed88ba5
 
 ## LAB MANAGER MISSION
 https://github.com/allainaleyran/CS3/blob/9f16dbd4cb180c95eba8a8665e61cc16f08190a6/q1/q1_sg6_Balingkilat_Leyran.py
+
+## LAB INVENTORY HIERARCHY 
+https://github.com/allainaleyran/CS3/blob/f3c1ceaa8de8b3901410f1b708edf0d025b4295f/q1/q1_sg7_Balingkilat_Leyran.py
