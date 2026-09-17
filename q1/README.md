@@ -1,4 +1,4 @@
-# CS3
+# 25_LEYRAN_CS3
 ## SG 2 ACTIVITY 1 
 https://github.com/allainaleyran/CS3/blob/4b6c91e29005f405e4d3e7e40d12a9497af98e8c/q1/q1_sg2_a1.md
 
