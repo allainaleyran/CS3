@@ -18,3 +18,4 @@ https://github.com/allainaleyran/CS3/blob/9f16dbd4cb180c95eba8a8665e61cc16f08190
 https://github.com/allainaleyran/CS3/blob/f3c1ceaa8de8b3901410f1b708edf0d025b4295f/q1/q1_sg7_Balingkilat_Leyran.py
 
 ## AGGREGATION_TUSOKTUSOK_CODE
+https://github.com/allainaleyran/CS3/blob/d0925bb652def7d44e787415580bafae726ae101/Aggregation_Tusoktusok/py.
