@@ -11,8 +11,11 @@ https://github.com/allainaleyran/CS3/blob/7bee30dbdfb44245aa3dcc6cd8338ec510f2aa
 ## CS HERO GAME
 https://github.com/allainaleyran/CS3/blob/26c36c3f17fb40bdd9daff40656d99fed88ba52d/q1/q1_sg5_a1_balingkilat_Leyran.py
 
-## SLAB MANAGER MISSION
+## LAB MANAGER MISSION
 https://github.com/allainaleyran/CS3/blob/9f16dbd4cb180c95eba8a8665e61cc16f08190a6/q1/q1_sg6_Balingkilat_Leyran.py
 
 ## LAB INVENTORY HIERARCHY 
 https://github.com/allainaleyran/CS3/blob/f3c1ceaa8de8b3901410f1b708edf0d025b4295f/q1/q1_sg7_Balingkilat_Leyran.py
+
+## AGGREGATION_TUSOKTUSOK_CODE
+https://github.com/allainaleyran/CS3/blob/3a2b7897988de542665a305c9fe2b4395e091c9e/q1/README.md
