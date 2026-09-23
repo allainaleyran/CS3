@@ -1,0 +1,23 @@
+# Relationships in Python OOP
+# Dependency 
+
+class Tusoktusok:
+    sauce = None
+    def __init__(self, name):
+        self.name = name
+    def dip(self, sauce):
+        self.sauce = sauce
+    def eat(self):
+        # print("I am eating", self.name, "with", self.sauce.name, "and it tastes", self.sauce.taste)
+        print("I am eating", self.name)
+        if self.sauce != None:
+            print("I am eating", self.name, "with", self.sauce.name, "and it tastes", self.sauce.taste)
+class Sauce:
+    def __init__(self, name, taste):
+        self.name = name
+        self.taste = taste
+
+fishball = Tusoktusok("fishball")
+vinegar = Sauce("vinegar", "sour")
+fishball.dip(vinegar)
+fishball.eat()
