@@ -1,0 +1,43 @@
+'''
+
+Leyran, Allaina Maxene C.
+9-Balingkilat
+
+'''
+# Relationships in Python OOP
+
+# Composition -> An object gets built inside the class.
+# When the main object gets deleted, its inner objects are deleted.
+
+class Mitochondria:
+    def __init__(self):
+        print("Mitochondria is created")
+    def __del__(self):
+        print("Mitochondria is deleted!")
+
+    def powerthecell(self):
+        print("Mitochondria powers the cell")
+
+
+class Nucleus:
+    def __init__(self):
+        print("Nucleus is created")
+
+
+class Cell:
+    def __init__(self):
+        self.mitochondria = Mitochondria()
+        self.nucleus = Nucleus()
+        print("Cell is created")
+
+
+cellatwork = Cell()
+cellatwork.mitochondria.powerthecell()
+
+def __del__(self):
+    del self.mitochondria
+    del self.nucleus
+    print("Cell is deleted!")
+    
+
+print("Cell is existing.")
